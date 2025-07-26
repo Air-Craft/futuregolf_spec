@@ -3,9 +3,16 @@
 
 ## Onboarding
 
-* User account creation screen required to use app
-* oAuth logins via Google, Amazon, Facebook, LinkedIn
-* Config setting to bypass user account creation for testing
+User account creation screen required to use app.
+
+### Account Creation
+- **OAuth Priority**: Prominent Google/Facebook/Microsoft/LinkedIn login buttons
+- **Direct Signup**: Alternative email/password option (secondary)
+- **Golf Profile**: Experience level selection (beginner/intermediate/advanced)
+- **Subscription Intro**: Brief explanation of free vs pro features
+- **Welcome TTS**: "Welcome to FutureGolf. Let's perfect your swing together"
+- Debug config setting to bypass user account creation
+
 
 
 ## Home Screen

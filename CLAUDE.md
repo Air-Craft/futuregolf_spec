@@ -68,16 +68,6 @@ python test_gcs_connection.py       # Test Google Cloud Storage
 
 
 
-## API Design Notes
-
-The backend implements these key endpoints:
-- Video upload endpoint (`/api/v1/videos/upload`)
-- Analysis polling endpoint for progress updates (`/api/v1/video-analysis/video/{id}`)
-- Results retrieval endpoint (`/api/v1/video-analysis/user/analyses`)
-- User authentication endpoints (`/api/v1/auth/*`)
-- TTS streaming endpoints (`/api/v1/tts/stream`, `/api/v1/tts/generate`)
-- Health check endpoints (`/health`, `/api/v1/tts/health`)
-
 ## Important Considerations
 
 - Videos should be processed server-side for consistency
