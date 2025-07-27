@@ -1,7 +1,5 @@
 
-# UI Overview
-
-## Onboarding
+# ONBOARDING JOURNEY
 
 User account creation screen required to use app.
 
@@ -15,16 +13,6 @@ User account creation screen required to use app.
 
 
 
-## Home Screen
-
-Full screen background video (to be supplied) playing on loop
-
-“Golf Swing Analysis AI” title in fancy custom font
-
-Big liquid glass buttons: 
-    * Analyse my swing 
-    * Previous swings
-
 
 
 ## My Swings Screen
@@ -37,10 +25,3 @@ Previous swings goes to another screen:
 * Below is a list of previous analysis entries with thumbnail from video and description
 * The whole screen is scrollable
 * Utilise Liquid Glass features where possible
-
-### Swing Analysis Screen
-
-* Has a video player screenshot plus play icon up top that goes full screen in the correct orientation (portrait, landscape) when played
-
-
-
